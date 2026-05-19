@@ -1630,6 +1630,7 @@ line-height: 1;
     grid-template-columns: repeat(3, 1fr);
 
     gap: 0;
+    margin-top: 40px;
 }
 
 /* SECOND ROW */
