@@ -1618,7 +1618,7 @@ line-height: 1;
 
     flex-direction: column;
 
-    gap: 40px;
+    gap: 30px;
 }
 
 /* ROW */
@@ -1630,7 +1630,8 @@ line-height: 1;
     grid-template-columns: repeat(3, 1fr);
 
     gap: 0;
-    margin-top: 40px;
+    margin-top: 30px;
+    margin-bottom: -30px;
 }
 
 /* SECOND ROW */
@@ -1640,7 +1641,7 @@ line-height: 1;
     grid-template-columns: repeat(3, 1fr);
 
     width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 /* BLOG BOX */
