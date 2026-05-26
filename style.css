@@ -1629,7 +1629,7 @@ line-height: 1;
 
     gap: 0;
     margin-top: 30px;
-    margin-bottom: -30px;
+    margin-bottom: -10px;
 }
 
 /* SECOND ROW */
@@ -1639,6 +1639,7 @@ line-height: 1;
     grid-template-columns: repeat(3, 1fr);
 
     width: 100%;
+    margin-top: 0px;
     margin-bottom: 50px;
 }
 
