@@ -1647,7 +1647,14 @@ line-height: 1;
 
 .blog-box {
 
+    padding: 34px;
 
+    background: rgba(245,158,11,0.04);
+
+    border: 1.5px solid rgba(245,158,11,0.10);
+
+    box-sizing: border-box;
+}
 
 /* LABEL */
 
